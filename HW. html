@@ -24,6 +24,9 @@
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
-      
+      <div class=container></div>
+      <div class="jumbotron"></div>
+      <h1>Puppies! Doggos!</h1>
+      <p>Dogs are wonderful.</p>
     </body>
 </html>
